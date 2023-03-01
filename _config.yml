@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : "손바닥 교무실"
 title_separator          : "-"
 subtitle                 : "기술교사의 학교 업무 및 개인 공부 일지"
-name                     : "콜라베어"
+name                     : 콜라베어
 description              : "An amazing website."
 url                      : "https://jihotech16.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
