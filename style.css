@@ -154,3 +154,5 @@ main.page{padding:0}
   .notice{padding:24px}
 }
 @media (prefers-reduced-motion:reduce){html{scroll-behavior:auto}.button,.app-card{transition:none}}
+.art .device{position:relative;z-index:1;width:min(250px,64%);height:auto;border-radius:30px;border:6px solid #fff;box-shadow:0 24px 48px -20px #1a12084d}
+@media (prefers-color-scheme:dark){.art .device{border-color:#2a2926}}
